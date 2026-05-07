@@ -1,0 +1,62 @@
+# Bilbao
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Aislacion Sismica](https://bilbao.geotecnia.vip/aislacion-sismica/)
+- [Amplificacion Sismica](https://bilbao.geotecnia.vip/amplificacion-sismica/)
+- [Asentamiento Diferencial](https://bilbao.geotecnia.vip/asentamiento-diferencial/)
+- [Asentamientos](https://bilbao.geotecnia.vip/asentamientos/)
+- [Calicatas Exploratorias](https://bilbao.geotecnia.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://bilbao.geotecnia.vip/cbr-vial/)
+- [Cimentaciones](https://bilbao.geotecnia.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://bilbao.geotecnia.vip/cimentaciones-superficiales/)
+- [Clasificacion Suelos](https://bilbao.geotecnia.vip/clasificacion-suelos/)
+- [Compactacion Dinamica](https://bilbao.geotecnia.vip/compactacion-dinamica/)
+- [Corte Directo](https://bilbao.geotecnia.vip/corte-directo/)
+- [Deep Soil Mixing](https://bilbao.geotecnia.vip/deep-soil-mixing/)
+- [Densidad Cono Arena](https://bilbao.geotecnia.vip/densidad-cono-arena/)
+- [Dilatometro](https://bilbao.geotecnia.vip/dilatometro/)
+- [Drenaje Vial](https://bilbao.geotecnia.vip/drenaje-vial/)
+- [Drenes Verticales](https://bilbao.geotecnia.vip/drenes-verticales/)
+- [Ensayo Cpt](https://bilbao.geotecnia.vip/ensayo-cpt/)
+- [Ensayo Proctor](https://bilbao.geotecnia.vip/ensayo-proctor/)
+- [Ensayo Spt](https://bilbao.geotecnia.vip/ensayo-spt/)
+- [Ensayos In Situ](https://bilbao.geotecnia.vip/ensayos-in-situ/)
+- [Estabilidad Taludes](https://bilbao.geotecnia.vip/estabilidad-taludes/)
+- [Estabilizacion Carreteras](https://bilbao.geotecnia.vip/estabilizacion-carreteras/)
+- [Estabilizacion Taludes](https://bilbao.geotecnia.vip/estabilizacion-taludes/)
+- [Estudio Mecanica Suelos](https://bilbao.geotecnia.vip/estudio-mecanica-suelos/)
+- [Evaluacion Pavimentos](https://bilbao.geotecnia.vip/evaluacion-pavimentos/)
+- [Excavaciones Profundas](https://bilbao.geotecnia.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneas](https://bilbao.geotecnia.vip/excavaciones-subterraneas/)
+- [Exploracion](https://bilbao.geotecnia.vip/exploracion/)
+- [Factor Seguridad](https://bilbao.geotecnia.vip/factor-seguridad/)
+- [Falla Taludes](https://bilbao.geotecnia.vip/falla-taludes/)
+- [Flujos Detritos](https://bilbao.geotecnia.vip/flujos-detritos/)
+- [Geofisica](https://bilbao.geotecnia.vip/geofisica/)
+- [Geomallas](https://bilbao.geotecnia.vip/geomallas/)
+- [Geomembranas](https://bilbao.geotecnia.vip/geomembranas/)
+- [Georradar Gpr](https://bilbao.geotecnia.vip/georradar-gpr/)
+- [Geotecnia Vial](https://bilbao.geotecnia.vip/geotecnia-vial/)
+- [Granulometria](https://bilbao.geotecnia.vip/granulometria/)
+- [Infiltracion](https://bilbao.geotecnia.vip/infiltracion/)
+- [Instrumentacion Geotecnica](https://bilbao.geotecnia.vip/instrumentacion-geotecnica/)
+- [Laboratorio](https://bilbao.geotecnia.vip/laboratorio/)
+- [Limites Atterberg](https://bilbao.geotecnia.vip/limites-atterberg/)
+- [Masw Vs30](https://bilbao.geotecnia.vip/masw-vs30/)
+- [Mejoramiento](https://bilbao.geotecnia.vip/mejoramiento/)
+- [Micropilotes](https://bilbao.geotecnia.vip/micropilotes/)
+- [Microtremores Hvsr](https://bilbao.geotecnia.vip/microtremores-hvsr/)
+- [Microzonificacion Sismica](https://bilbao.geotecnia.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://bilbao.geotecnia.vip/monitoreo-excavaciones/)
+- [Monitoreo Taludes](https://bilbao.geotecnia.vip/monitoreo-taludes/)
+- [Muros Contencion](https://bilbao.geotecnia.vip/muros-contencion/)
+- [Muros Pantalla](https://bilbao.geotecnia.vip/muros-pantalla/)
+
+## Contact
+- Website: https://bilbao.geotecnia.vip/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
